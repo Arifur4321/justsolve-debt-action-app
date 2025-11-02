@@ -172,10 +172,7 @@ The UI automatically connects to Laravel’s API at `http://127.0.0.1:8000/api`.
 ## 👨‍💻 Developed by
 **Arifur Rahman**  
 MSc in Computer Science, University of Camerino (Italy)  
-Full-Stack Developer — Laravel | Angular | Flutter | Kubernetes  
+Full-Stack Developer  
 📧 arifurcodice@gmail.com  
-
+https://arifurrahman.top/
 ---
-
-> **Note:** This project was developed independently using AI (ChatGPT-5) for code structuring, debugging, and documentation assistance.  
-> The final implementation, logic, and architecture decisions are my own.
